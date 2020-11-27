@@ -1,0 +1,7 @@
+{
+  "name": "ALAMBA",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
